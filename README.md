@@ -1,1 +1,1 @@
-R scripts to collect Flickr data, to run Google Cloud Vision and image analysis run in this paper. The scripts includes also, scripts for creating the graphs and statistics 
+R scripts to collect Flickr data, run Google Cloud Vision, and perform image analysis. It also includes scripts to generate graphs and statistics.
